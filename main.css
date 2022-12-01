@@ -1,0 +1,36 @@
+body {
+    background-color: green;
+}
+
+h3 {
+    color: white;
+}
+
+/ Table Styles / table {
+    background-color: lightgreen;
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 600px;
+    padding: 10px;
+}
+
+th,
+td {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+caption {
+    color: white;
+    caption-side: bottom;
+}
+
+
+#me{
+    width: 150px;
+    height: 150px;
+    padding: 10px;
+    border: 3px solid rgb(9, 209, 35);
+    object-fit: cover;
+    text-align: center;
+}
